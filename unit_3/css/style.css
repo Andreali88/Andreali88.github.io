@@ -3,5 +3,6 @@ background: url("../images/backgroundimage.jpg");
   background-size: cover;
   color: #fff;
   font-family: Arial;
-  text-align: center;
+ 
 }
+h1,p{text-align: center;}
