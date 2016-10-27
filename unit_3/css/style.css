@@ -1,8 +1,7 @@
 body{
 background: url("../images/backgroundimage.jpg");
   background-size: cover;
-  color: #fff;
+  color: #000;
   font-family: Arial;
  
 }
-h1,p{text-align: center;}
